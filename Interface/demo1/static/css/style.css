@@ -1,0 +1,19 @@
+#app {
+	height: 100%;
+	background-color: red;
+}
+
+
+/* .view,
+.menu {
+	border-style: dashed;
+	border-width: 1px;
+}
+
+.view {
+	border-color: orange;
+} */
+
+.menu {
+	border-color: blue;
+}
